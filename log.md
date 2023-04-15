@@ -1,30 +1,95 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+---
+### Day 9: April 14, Friday
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**:  I added the Fisher-Yates algorithm to my project to shuffle arrays and avoid repeated quotes.
+**Thoughts**:  Keeping quotes fresh is a critical aspect of engaging and retaining users. I am confident that this will contribute positively to the user experience of my project.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link(s) to work**: 
+[\[1. Day 9 Tweet\]](https://twitter.com/biokoder/status/1647062354201329665)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+---
+### Day 8: April 13, Thursday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**:  Today's focus was on trying out different button aesthetics for a topbar.
+**Thoughts**:  I believe that I have discovered a design that is both aesthetically pleasing and practical for the users.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Link(s) to work**: 
+[\[1. Day 8 Tweet\]](https://twitter.com/biokoder/status/1646709632067330048)
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+---
+### Day 7: April 12, Wednesday
+
+**Today's Progress**: Applied a polygon clip-path to the media elements for enhanced visual appeal.
+
+**Thoughts**: Sometimes, it's the small details that make the biggest impact - in this case, the result is seriously eye-catching.
+
+**Link(s) to work**: 
+[\[1. Day 7 Tweet\]](https://twitter.com/biokoder/status/1646346915661983746)
+
+---
+### Day 6: April 11, Tuesday
+
+**Today's Progress**: I added resizable multimedia support and a font that adapts to fit the length of each quote.
+**Thoughts**:  The integration of resizable multimedia elements and a responsive font size in my project has taken its design to the next level, making it more engaging and easy to use for viewers.
+
+**Link(s) to work**: 
+[1. Day 6 Tweet](https://twitter.com/biokoder/status/1645976105151602688)
+
+---
+### Day 5: April 10, Monday
+
+**Today's Progress**: I utilized the Fetch method to retrieve data from the backend server and initiated work on the client-side to allow real-time updates to the user interface.
+
+**Thoughts**  Now that the back-end API is working, it's time to build out the front-end application to display the data.
+
+**Link(s) to work**:  [1. Day 5 Tweet](https://twitter.com/biokoder/status/1645258948566499329)
+
+---
+### Day 4: April 09, Sunday
+ 
+**Today's Progress**: I've just completed a comprehensive round of testing on the Cyberpunk 2077 API endpoints using Insomnia and they all checked out great.
+
+**Thoughts** Now that the back-end API is working perfectly, it's time to build out the front-end application to display the data.
+
+**Link(s) to work**:
+[1. Day 4 Tweet](https://twitter.com/biokoder/status/1645258948566499329)
+
+---
+### Day 3: April 08, Saturday
+ 
+**Today's Progress**:  I recently upgraded my Node.js application from using the Express framework to create a simple REST API that served data from a JSON object in memory, to using MongoDB as the database and Mongoose to model the data. This switch has allowed for improved scalability and flexibility in managing the application's data.
+
+**Thoughts**: The code is now better organized, cleaner, and fetch operations are faster compared to storing the data in an object in memory.
+
+**Link(s) to work**:
+1. [Day 3 Tweet](https://twitter.com/biokoder/status/1644887416812064769) 
 
 
-### Day 1: June 27, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+---
+### Day 2: April 07, Friday
+
+**Today's Progress** I have made the landing page fully responsive and have updated the social icons with SVGs.
+
+**Thoughts** I have developed an appreciation for CSS now. 
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+1. [Day 2 Tweet](https://twitter.com/biokoder/status/1644529071005777920)
+
+---
+### Day 1: April 06, Thursday
+ 
+**Today's Progress**: Successfully deployed my React-based landing page to Firebase.
+
+**Thoughts** Wireframing has been super helpful in giving me a visual of the landing page design, but creating a prototype is turning out to be harder than writing the code itself.
+
+**Link(s) to work**:
+1. Check [biokoder.com](biokoder.com)
+2. [Day 1 Tweet 1](https://twitter.com/biokoder/status/1643849194753384450)
+3. [Day 1 Tweet 2](https://twitter.com/biokoder/status/1644148947902930949)
+---
