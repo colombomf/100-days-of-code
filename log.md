@@ -2,12 +2,23 @@
 
 
 ---
+### Day 10: April 15, Saturday
+
+**Today's Progress**:  I successfully implemented a tweet intent function in my project.
+**Thoughts**: During the implementation, I faced formatting challenges that required the use of string manipulation techniques. Specifically, I used the method of replacing HTML line break tags with newline characters ('\n') in my code. By utilizing this method, I was able to achieve the correct line breaks and deliver the desired output.
+
+**Link(s) to work**: 
+
+[1. Day 10 Tweet](https://twitter.com/biokoder/status/1647434592410902532) 
+
+---
 ### Day 9: April 14, Friday
 
 **Today's Progress**:  I added the Fisher-Yates algorithm to my project to shuffle arrays and avoid repeated quotes.
 **Thoughts**:  Keeping quotes fresh is a critical aspect of engaging and retaining users. I am confident that this will contribute positively to the user experience of my project.
 
 **Link(s) to work**: 
+
 [\[1. Day 9 Tweet\]](https://twitter.com/biokoder/status/1647062354201329665)
 
 ---
@@ -17,6 +28,7 @@
 **Thoughts**:  I believe that I have discovered a design that is both aesthetically pleasing and practical for the users.
 
 **Link(s) to work**: 
+
 [\[1. Day 8 Tweet\]](https://twitter.com/biokoder/status/1646709632067330048)
 
 ---
@@ -27,6 +39,7 @@
 **Thoughts**: Sometimes, it's the small details that make the biggest impact - in this case, the result is seriously eye-catching.
 
 **Link(s) to work**: 
+
 [\[1. Day 7 Tweet\]](https://twitter.com/biokoder/status/1646346915661983746)
 
 ---
@@ -36,6 +49,7 @@
 **Thoughts**:  The integration of resizable multimedia elements and a responsive font size in my project has taken its design to the next level, making it more engaging and easy to use for viewers.
 
 **Link(s) to work**: 
+
 [1. Day 6 Tweet](https://twitter.com/biokoder/status/1645976105151602688)
 
 ---
@@ -55,6 +69,7 @@
 **Thoughts** Now that the back-end API is working perfectly, it's time to build out the front-end application to display the data.
 
 **Link(s) to work**:
+
 [1. Day 4 Tweet](https://twitter.com/biokoder/status/1645258948566499329)
 
 ---
@@ -65,6 +80,7 @@
 **Thoughts**: The code is now better organized, cleaner, and fetch operations are faster compared to storing the data in an object in memory.
 
 **Link(s) to work**:
+
 1. [Day 3 Tweet](https://twitter.com/biokoder/status/1644887416812064769) 
 
 
